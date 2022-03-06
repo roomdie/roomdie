@@ -1,1 +1,1 @@
-- 👋 I'm a Python Developer from cold Russia
+- 👋 I'm a Python Developer
